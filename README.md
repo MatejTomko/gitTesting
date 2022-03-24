@@ -1,1 +1,1 @@
-# gitTesting ahojda dano
+# gitTesting ahojda samo
